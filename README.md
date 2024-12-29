@@ -10,6 +10,8 @@ Traditionally,
 
 # TODO:
 
-- [] Real-time
-- [] Add command to Vim text editor for ease of access
-- [] 
+- [ ] Add support for reading from standard input
+- [ ] Add command to Vim text editor for ease of access
+- [ ] Real-time display of word count in Vim (for specific files, i.e: .txts)
+- [ ] Frequency Analysis of specific words 
+- [ ] Flesch-Kincaid Readability metric of texts
